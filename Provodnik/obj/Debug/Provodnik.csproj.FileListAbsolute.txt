@@ -1,0 +1,7 @@
+C:\Users\richb\Desktop\Учёба\C#\Provodnik\Provodnik\bin\Debug\Provodnik.exe
+C:\Users\richb\Desktop\Учёба\C#\Provodnik\Provodnik\bin\Debug\Provodnik.pdb
+C:\Users\richb\Desktop\Учёба\C#\Provodnik\Provodnik\obj\Debug\Provodnik.csproj.AssemblyReference.cache
+C:\Users\richb\Desktop\Учёба\C#\Provodnik\Provodnik\obj\Debug\Provodnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\richb\Desktop\Учёба\C#\Provodnik\Provodnik\obj\Debug\Provodnik.csproj.CoreCompileInputs.cache
+C:\Users\richb\Desktop\Учёба\C#\Provodnik\Provodnik\obj\Debug\Provodnik.exe
+C:\Users\richb\Desktop\Учёба\C#\Provodnik\Provodnik\obj\Debug\Provodnik.pdb
